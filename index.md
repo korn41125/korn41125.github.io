@@ -1,3 +1,3 @@
-```
-Coming Soon
-```
+<script>
+  alert("Coming soon...")
+</script>
