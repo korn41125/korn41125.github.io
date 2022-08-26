@@ -20,7 +20,7 @@
   (Coming Soon)
   
 </details>
-<br>
 
+<br> <br>
 
-<sub>Korn41125 Website <i>Beta</i> (v0.1.0)</sub>
+<sub>Korn41125 Website [Beta] - v0.1.0</sub>
