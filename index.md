@@ -10,12 +10,12 @@
 
 <details><summary>ข้อมูลเกี่ยวกับการศึกษา ในภาคเรียนที่ 1/2565</summary>
   
-[Robotic AI](https://korn41125.github.io/robotic-ai/links)
+  <a href="https://korn41125.github.io/robotic-ai/links">Robotic AI</a>
   
 </details>
 
 <details><summary>ข้อมูลจากกลุ่มราชวิท</summary>
   
-(Coming Soon)
+  (Coming Soon)
   
 </details>
