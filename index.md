@@ -23,4 +23,4 @@
 
 <br> <br>
 
-<sub>Korn41125 Website [Beta] - v0.1.0</sub>
+<sub>Korn41125 Website [Beta] - v0.2.0</sub>
